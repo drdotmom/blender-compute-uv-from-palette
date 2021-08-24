@@ -1,1 +1,1 @@
-# blender-compute-uv_from-palette
+# blender-compute-uv-from-palette
